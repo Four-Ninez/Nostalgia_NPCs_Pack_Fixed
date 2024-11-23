@@ -1,3 +1,6 @@
+# Why did I forked it?
+Just to fix some NPC models, as there were problems with the original models on the server (their animations don't always match, which is why when you play on the server they have them broken)
+
 # Sven Co-op Nostalgia NPCs
 for Sven Co-op 5.0+ modified by Garompa as of 12/09/2024
 
